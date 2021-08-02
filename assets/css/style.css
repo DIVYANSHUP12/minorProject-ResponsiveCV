@@ -389,6 +389,11 @@ img {
     margin-top: var(--mb-1);
 }
 
+.certificate__description {
+    padding: .65%;
+    font-size: small;
+}
+
 .interests__container {
     grid-template-columns: repeat(3, 1fr);
     margin-top: var(--mb-2);
